@@ -116,5 +116,5 @@ Contributions are welcome! Feel free to **fork this repository**, make improveme
 ---
 
 ## ✨ Author
-**[Your Name]** – [LinkedIn](https://www.linkedin.com/in/raju-kumar7388/) | [GitHub](https://github.com/RajuKumar077)
+**[Raju Kumar]** – [LinkedIn](https://www.linkedin.com/in/raju-kumar7388/) | [GitHub](https://github.com/RajuKumar077)
 
